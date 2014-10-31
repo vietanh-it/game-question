@@ -36,9 +36,15 @@ D:\wamp\www\game\platforms\android\assets\www\img \
 D:\wamp\www\game\platforms\android\assets\www\index.html \
 D:\wamp\www\game\platforms\android\assets\www\js \
 D:\wamp\www\game\platforms\android\assets\www\plugins \
+D:\wamp\www\game\platforms\android\assets\www\css\animate.css \
 D:\wamp\www\game\platforms\android\assets\www\css\index.css \
+D:\wamp\www\game\platforms\android\assets\www\css\jquery.mobile.custom.structure.min.css \
+D:\wamp\www\game\platforms\android\assets\www\css\jquery.mobile.custom.theme.min.css \
 D:\wamp\www\game\platforms\android\assets\www\img\logo.png \
+D:\wamp\www\game\platforms\android\assets\www\js\global.js \
 D:\wamp\www\game\platforms\android\assets\www\js\index.js \
+D:\wamp\www\game\platforms\android\assets\www\js\jquery-2.1.1.min.js \
+D:\wamp\www\game\platforms\android\assets\www\js\jquery.mobile.custom.min.js \
 D:\wamp\www\game\platforms\android\assets\www\plugins\org.apache.cordova.battery-status \
 D:\wamp\www\game\platforms\android\assets\www\plugins\org.apache.cordova.camera \
 D:\wamp\www\game\platforms\android\assets\www\plugins\org.apache.cordova.contacts \
